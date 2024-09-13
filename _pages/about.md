@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-- [Car Trading Cycle Prediction based on Random Forest Algorithmt](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778603), Lei Yu, Haizhang Yan, Linkai Liu, Shangru Yi, YiShi Zhao, **2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)**
+- [Car Trading Cycle Prediction based on Random Forest Algorithmt](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778603), **Lei Yu**, Haizhang Yan, Linkai Liu, Shangru Yi, YiShi Zhao, **2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)**
 
 
 
@@ -35,14 +35,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2023.06*, Software Engineering, School of Computer Science, China University of Geosciences. 
 
 # 💻 Internships
-- *2024.06 - now*, [JD Health](https://www.jdh.com/) Beijing, China.
-- *2022.10 - 2023.02*, [安博通](http://www.abtnetworks.com/about/company.html) Wuhan, China.
+- *2024.06 - now*, Algorithm Development Engineer(Computer Vision) at [JD Health](https://www.jdh.com/), Beijing, China.
+- *2022.10 - 2023.02*, Test Development Engineer at [安博通](http://www.abtnetworks.com/about/company.html), Wuhan, China.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Won the 2024 JD Hackathon Third Prize (Basic Technology Challenge Track) 
-- *2024.06*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.06*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.12*: &nbsp;🎉🎉 Won the first-class academic scholarship of Huazhong University of Science and Technology.
+- *2023.09*: &nbsp;🎉🎉 Recommended to study for master's degree in School of Software of Huazhong University of Science and Technology.
+- *2023.06*: &nbsp;🎉🎉 Received my bachelor's degree in Software Engineering from China University of Geosciences.
 - *2022.09*: &nbsp;🎉🎉 Won the academician Scholarship of China University of Geosciences for the second time.
+- *2022.08*: &nbsp;🎉🎉 Won the second prize of China Software Cup College Students Software Design Competition.
 - *2021.10*: &nbsp;🎉🎉 won the second prize in Hubei Province in the National College Student Mathematical Modeling Competition.
 - *2021.09*: &nbsp;🎉🎉 Won the Academician Scholarship of China University of Geosciences.
