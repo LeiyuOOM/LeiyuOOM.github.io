@@ -41,6 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Won the 2024 JD Hackathon Third Prize (Basic Technology Challenge Track) 
 - *2023.12*: &nbsp;🎉🎉 Won the first-class academic scholarship of Huazhong University of Science and Technology.
+- *2023.12*: &nbsp;🎉🎉 Accepted two patents related to medical image segmentation
 - *2023.09*: &nbsp;🎉🎉 Recommended to study for master's degree in School of Software of Huazhong University of Science and Technology.
 - *2023.06*: &nbsp;🎉🎉 Received my bachelor's degree in Software Engineering from China University of Geosciences.
 - *2022.09*: &nbsp;🎉🎉 Won the academician Scholarship of China University of Geosciences for the second time.
