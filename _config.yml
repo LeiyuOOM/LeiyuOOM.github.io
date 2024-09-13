@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Lei Yu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Graduate student, Huazhong University of Science and Technology. "
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lei Yu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "AI for health"
   location         : "Wuhan, China"
   googlescholar    : "https://scholar.google.com/citations?user=mZyyJakAAAAJ"
   email            : "yulei@hust.edu.cn"
