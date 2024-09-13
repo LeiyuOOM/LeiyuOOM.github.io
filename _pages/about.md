@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently a second-year graduate student in Software Engineering at Huazhong University of Science and Technology, specializing in AI for health. The research focuses on medical image segmentation, reconstruction, and multimodal medical large language models.
+Currently a second-year graduate student in Software Engineering at Huazhong University of Science and Technology.Specializing in AI for health. The research focuses on medical image segmentation, reconstruction, and multimodal medical large language models.
 
 
 
