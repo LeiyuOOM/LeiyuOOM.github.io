@@ -47,4 +47,5 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 - *2021.10*: &nbsp;🎉🎉 won the second prize in Hubei Province in the National College Student Mathematical Modeling Competition.
 - *2021.09*: &nbsp;🎉🎉 Won the Academician Scholarship of China University of Geosciences.
 - *2021.07*: &nbsp;🎉🎉 Won The third prize of China Society of Electrical Engineering Cup National College Students Mathematical Contest in Modeling
+- *2021.07*: &nbsp;🎉🎉 Won The Huazhong Cup college students mathematical modeling Contest second prize
 - *2021.06*: &nbsp;🎉🎉 Won Second prize in the MathorCup Mathematical Modeling Challenge
