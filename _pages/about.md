@@ -44,8 +44,9 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 - *2023.06*: &nbsp;🎉🎉 Received my bachelor's degree in Software Engineering from China University of Geosciences.
 - *2022.09*: &nbsp;🎉🎉 Won the academician Scholarship of China University of Geosciences for the second time.
 - *2022.08*: &nbsp;🎉🎉 Won the second prize of China Software Cup College Students Software Design Competition.
+- *2022.01*: &nbsp;🎉🎉 Joined Baidu Qing Ying class of China University of Geosciences.
 - *2021.10*: &nbsp;🎉🎉 won the second prize in Hubei Province in the National College Student Mathematical Modeling Competition.
 - *2021.09*: &nbsp;🎉🎉 Won the Academician Scholarship of China University of Geosciences.
 - *2021.07*: &nbsp;🎉🎉 Won The third prize of China Society of Electrical Engineering Cup National College Students Mathematical Contest in Modeling
-- *2021.07*: &nbsp;🎉🎉 Won The Huazhong Cup college students mathematical modeling Contest second prize
+- *2021.07*: &nbsp;🎉🎉 Won The Huazhong Cup college students mathematical modeling Contest third prize
 - *2021.06*: &nbsp;🎉🎉 Won Second prize in the MathorCup Mathematical Modeling Challenge
