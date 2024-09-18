@@ -22,7 +22,7 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 
 
 # 📝 Publications 
-- [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals](https://arxiv.org/pdf/2409.09366), **Lei Yu**,Jintao Fei, Xinyi Liu, Yang Yao, Jun Zhao, Guoxin Wang, Xin Li
+- [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals](https://arxiv.org/pdf/2409.09366), **Lei Yu**, Jintao Fei, Xinyi Liu, Yang Yao, Jun Zhao, Guoxin Wang, Xin Li
 - [Car Trading Cycle Prediction based on Random Forest Algorithmt](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778603), **Lei Yu**, Haizhang Yan, Linkai Liu, Shangru Yi, Yishi Zhao, **2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)**
 
 
