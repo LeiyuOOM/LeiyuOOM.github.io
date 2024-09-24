@@ -36,8 +36,9 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 - *2022.10 - 2023.02*, Test Development Engineer at [安博通](http://www.abtnetworks.com/about/company.html), Wuhan, China.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Won the JD Health-Global Medical AI Innovation Competition Winning Prize(Innovative Applications of Medical Large Models Track rank 10/427)
 - *2024.09*: &nbsp;🎉🎉 Won the 2024 JD Hackathon Third Prize (Basic Technology Challenge Track)
-- *2024.06*: &nbsp;🎉🎉 [CVPR 2024: Segment Anything in Medical Images on Laptop](https://www.codabench.org/competitions/1847/) Challenge rank 16/208
+- *2024.06*: &nbsp;🎉🎉 [CVPR 2024: Segment Anything in Medical Images on Laptop](https://www.codabench.org/competitions/1847/) Challenge Winning Prize (rank 16/208)
 - *2023.12*: &nbsp;🎉🎉 Won the first-class academic scholarship of Huazhong University of Science and Technology.
 - *2023.12*: &nbsp;🎉🎉 Accepted two patents related to medical image segmentation
 - *2023.09*: &nbsp;🎉🎉 Recommended to study for master's degree in School of Software of Huazhong University of Science and Technology.
