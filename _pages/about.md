@@ -23,8 +23,7 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 
 # 📝 Publications 
 - [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals](https://arxiv.org/pdf/2409.09366), **Lei Yu**, Jintao Fei, Xinyi Liu, Yang Yao, Jun Zhao, Guoxin Wang, Xin Li **(ICASSP 2025)**
-- [An Efficient Residual-based Low-dose PET Reconstruction with Spatial-Frequency Integration],Minghui Li
-, **Lei Yu**, Hewen Pan, Shengqing Hu, Longling Zhang, Shengshan Hu, Wei Wan, Peijin Guo **(ICASSP 2025)**
+- An Efficient Residual-based Low-dose PET Reconstruction with Spatial-Frequency Integration, Minghui Li, **Lei Yu**, Hewen Pan, Shengqing Hu, Longling Zhang, Shengshan Hu, Wei Wan, Peijin Guo **(ICASSP 2025)**
 - [Car Trading Cycle Prediction based on Random Forest Algorithmt](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778603), **Lei Yu**, Haizhang Yan, Linkai Liu, Shangru Yi, Yishi Zhao, **2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)**
 
 
@@ -34,10 +33,12 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 - *2019.09 - 2023.06*, Software Engineering, School of Computer Science, China University of Geosciences. 
 
 # 💻 Internships
-- *2024.06 - now*, Algorithm Development Engineer(Computer Vision) at [JD Health](https://www.jdh.com/), Beijing, China.
+- *2024.12 - now*, Algorithm Development Engineer (NLP) at [Xiaomi](https://www.mi.com/), Wuhan, China.
+- *2024.06 - 2024.09*, Algorithm Development Engineer (Computer Vision) at [JD Health](https://www.jdh.com/), Beijing, China.
 - *2022.10 - 2023.02*, Test Development Engineer at [安博通](http://www.abtnetworks.com/about/company.html), Wuhan, China.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Two papers were accepted by ICASSP 2025
 - *2024.09*: &nbsp;🎉🎉 Won the JD Health-Global Medical AI Innovation Competition Winning Prize(Innovative Applications of Medical Large Models Track)(rank 10/427)
 - *2024.09*: &nbsp;🎉🎉 Won the 2024 JD Hackathon Third Prize (Basic Technology Challenge Track)
 - *2024.06*: &nbsp;🎉🎉 [CVPR 2024: Segment Anything in Medical Images on Laptop](https://www.codabench.org/competitions/1847/) Challenge Winning Prize(rank 16/208)
