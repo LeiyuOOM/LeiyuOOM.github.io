@@ -22,8 +22,8 @@ Currently a second-year graduate student in Software Engineering at Huazhong Uni
 
 
 # 📝 Publications 
-- [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals](https://arxiv.org/pdf/2409.09366), **Lei Yu**, Jintao Fei, Xinyi Liu, Yang Yao, Jun Zhao, Guoxin Wang, Xin Li **(ICASSP 2025)**
-- An Efficient Residual-based Low-dose PET Reconstruction with Spatial-Frequency Integration, Minghui Li, **Lei Yu**, Hewen Pan, Shengqing Hu, Longling Zhang, Shengshan Hu, Wei Wan, Peijin Guo **(ICASSP 2025)**
+- [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals](https://arxiv.org/pdf/2409.09366), **Lei Yu**, Jintao Fei, Xinyi Liu, Yang Yao, Jun Zhao, Guoxin Wang, Xin Li, **(ICASSP 2025)**
+- An Efficient Residual-based Low-dose PET Reconstruction with Spatial-Frequency Integration, Minghui Li, **Lei Yu**, Hewen Pan, Shengqing Hu, Longling Zhang, Shengshan Hu, Wei Wan, Peijin Guo, **(ICASSP 2025)**
 - [Car Trading Cycle Prediction based on Random Forest Algorithmt](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778603), **Lei Yu**, Haizhang Yan, Linkai Liu, Shangru Yi, Yishi Zhao, **2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)**
 
 
